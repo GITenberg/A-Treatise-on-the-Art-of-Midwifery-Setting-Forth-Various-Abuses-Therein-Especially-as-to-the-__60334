@@ -1,0 +1,30 @@
+_repo: A-Treatise-on-the-Art-of-Midwifery-Setting-Forth-Various-Abuses-Therein-Especially-as-to-the-__60334
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nihell, Elizabeth
+    birthdate: 1723
+    deathdate: 1776
+    gutenberg_agent_id: '50902'
+    url: http://www.gutenberg.org/2009/agents/50902
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Nihell
+description: ''
+gutenberg_issued: '2019-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Midwifery -- Early works to 1800'
+- !lcsh 'Obstetrics -- Early works to 1800'
+- !lcc 'RG'
+- GITenberg
+title: "A Treatise on the Art of Midwifery\r\nSetting Forth Various Abuses Therein,\
+  \ Especially as to the Practice With Instruments: the Whole Serving to Put All Rational\
+  \ Inquirers in a Fair Way of Very Safely Forming Their Own Judgement Upon the Question;\
+  \ Which It Is Best to Employ, in Cases of Pregnancy and Lying-in, a Man-midwife;\
+  \ Or, a Midwife"
+url: http://www.gutenberg.org/ebooks/60334
